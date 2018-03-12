@@ -1,0 +1,4 @@
+[2018-03-10 18:14:55,194] - logger.py] - INFO: 获取优惠券列表用例------start--------
+[2018-03-10 18:14:55,196] - logger.py] - INFO: 请求的URL地址是：https://console-devtest-zzhw.thy360.com/py/v4/admin/config/coupon/?limit=20&page=1
+[2018-03-10 18:20:51,559] - logger.py] - INFO: 获取优惠券列表用例------start--------
+[2018-03-10 18:20:51,561] - logger.py] - INFO: 请求的URL地址是：https://console-devtest-zzhw.thy360.com/py/v4/admin/config/coupon/?limit=20&page=1
